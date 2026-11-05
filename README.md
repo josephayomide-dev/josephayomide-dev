@@ -1,16 +1,33 @@
-## Hi there 👋
+Hi, I'm Joseph 👋
 
-<!--
-**josephayomide-dev/josephayomide-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python Developer | Aspiring AI Engineer | Data Analysis Enthusiast
 
-Here are some ideas to get you started:
+I'm a Biochemistry graduate with a growing interest in software development, artificial intelligence, and data analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently developing my technical skills through hands-on projects, focusing on Python, data manipulation, visualization, and machine learning.
+
+🛠️ Technical Skills
+
+- Languages: Python
+- Data Analysis: Pandas, NumPy
+- Data Visualization: Matplotlib, Seaborn
+- Tools: Git, GitHub, Google Colab
+- Currently Learning: Machine Learning, Deep Learning, Go
+
+📂 Featured Projects
+
+- [Python Data Analysis](https://github.com/josephayomide-dev/python-data-analysis) — Exploratory analysis of the Iris flower dataset.
+- [Sales Data Analysis](https://github.com/josephayomide-dev/sales-data-analysis) — Sales trends, revenue analysis, and business insights.
+- [Data Cleaning with Python](https://github.com/josephayomide-dev/data-cleaning-python) — Cleaning missing values and duplicate records using Pandas.
+- [Customer Data Visualization](https://github.com/josephayomide-dev/customer-data-visualization) — Visualizing customer distribution and purchasing behaviour.
+
+🎯 Current Goals
+
+- Build practical Python and machine learning projects.
+- Strengthen my data analysis and problem-solving skills.
+- Develop my knowledge of backend development and AI.
+- Contribute to meaningful technical projects.
+
+📫 Connect With Me
+
+- GitHub: [@josephayomide-dev](https://github.com/josephayomide-dev)
